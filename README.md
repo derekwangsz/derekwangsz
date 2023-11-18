@@ -1,5 +1,13 @@
 ### Hi there 👋 I'm Derek!
-# Enthusiastic Barça fan! ❤️💙
+#### Enthusiastic Barça fan! ❤️💙
+
+### Hobbies:
+#### - Soccer ⚽️
+#### - Snowboarding 🏂
+#### - Badminton 🏸
+#### - Basketball 🏀
+#### - Guitar 🎶
+#### - iOS Dev 🍎
 
 <!--
 **derekwangsz/derekwangsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
