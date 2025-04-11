@@ -5,7 +5,6 @@
 #### - Soccer ⚽️
 #### - Snowboarding 🏂
 #### - Badminton 🏸
-#### - Basketball 🏀
 #### - Guitar 🎶
 #### - iOS Dev 🍎
 
