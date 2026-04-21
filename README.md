@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Derek!
-#### Enthusiastic Barça fan! ❤️💙
+#### Enthusiastic Barça fan! 💙❤️
 
 ### Hobbies:
 #### - Soccer ⚽️
