@@ -6,6 +6,7 @@
 #### - Snowboarding 🏂
 #### - Badminton 🏸
 #### - Guitar 🎶
+#### - Machine Learning 🤖
 #### - iOS Dev 🍎
 
 <!--
