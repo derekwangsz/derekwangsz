@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Derek!
 #### Enthusiastic Barça fan! 💙❤️
 
+## Checkout my site here: https://derekwangsz.github.io/
+
 ### Hobbies:
 #### - Soccer ⚽️
 #### - Snowboarding 🏂
